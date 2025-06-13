@@ -16,6 +16,7 @@ A powerful Chrome Extension that uses **Gemini AI** to extract and summarize con
 
 ## 📸 Demo
 
+![image](https://github.com/user-attachments/assets/2f70189b-6f29-4586-be4c-0e96df8bb472)
 
 
 ---
