@@ -1,6 +1,6 @@
 # 🧠 Chrome AI-Based Summary Extension
 
-A powerful Chrome Extension that uses **Gemini AI** to extract and summarize content from any webpage you're currently viewing. Supports brief, detailed, and bullet-point summaries — all within a sleek, dark-mode UI.
+A  Chrome Extension that uses **Gemini AI** to extract and summarize content from any webpage you're currently viewing. Supports brief, detailed, and bullet-point summaries — all within a sleek, dark-mode UI.
 
 ---
 
