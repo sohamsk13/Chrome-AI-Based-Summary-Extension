@@ -28,3 +28,4 @@ A  Chrome Extension that uses **Gemini AI** to extract and summarize content fro
 ```bash
 git clone https://github.com/sohamsk13/Chrome-AI-Based-Summary-Extension.git
 cd Chrome-AI-Based-Summary-Extension
+setup gemini API key after this
